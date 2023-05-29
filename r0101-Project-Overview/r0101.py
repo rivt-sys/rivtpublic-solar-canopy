@@ -24,22 +24,23 @@ rv.R("""Overview | 80 | 1
                         [02] Abbreviations
                         [03] Symbols
 
-    || project | resource | project_data.csv | 30,c | [:] 
+    || project | r00 | project_data.txt | 30,c | [:] 
  
     """)
 # %%
 rv.I("""Governing Codes 
 
-    || image | resource | fig1.png | 15
+    || image | r0101 | fig1.png | 15
     Wind load 1 _[f]
     
-    || image | resource | fig2.png | 40 
+    || image | r0101 | fig2.png | 40 
     Wind load 2 _[f]
 
-    The permits are authorized by the City of Larkspur, California which
-    adopted the 2019 California Building Code [CBC] and the 2019 California
-    Residential Code [CRC] as the basis for permiting construction work. The
-    canopy is designed for compliance with the requirements of the CBC.
+    Building Codes and Jurisdiction _[b]
+    - City of Larkspur, California 
+    - 2019 California Building Code [CBC]
+    - 2019 California Residential Code [CRC] 
+    - The canopy is designed for compliance with the requirements of the CBC.
 
     Standards _[t]
     || table | data | cbc2019_stds.xlsx | 53,l | [:]
@@ -91,7 +92,6 @@ rv.V("""Gravity Loads and Seismic Mass | sub
     totwt1 = rfwt1 + flrwt1 + partwt1 + exwallwt1       |KIP,KN|2
     Weights _[t]  
 
-      
     """)
 # %%
 rv.V("""Material Densities and Seismic Models | sub
