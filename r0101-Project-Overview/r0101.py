@@ -2,7 +2,7 @@
 # %%
 import rivt.rivtapi as rv
 # %%
-rv.R("""Overview | 80 | 1
+rv.R("""Overview | 1
 
     This report covers the structural design of a residential solar canopy
     located in the City of Larkspur, California. It includes the design of a
@@ -28,7 +28,7 @@ rv.R("""Overview | 80 | 1
  
     """)
 # %%
-rv.I("""Governing Codes 
+rv.I("""Governing Codes | default
 
     || image | r0101 | fig1.png | 15
     Wind load 1 _[f]
@@ -77,7 +77,7 @@ rv.V("""Gravity Loads and Seismic Mass | sub
     areaflr1 := 1200            |SF,SM| floor area
     htwall1 := 9                |FT, M| wall height   
     lenwall1 := 110             |FT, M| interior wall length 
-    lenwall2 := 155             |FT, M| exterior wall length 2
+    lenwall2 := 155             |FT, M| exterior wall 2 length 
 
     
     Roof weight _[e]                    
@@ -113,7 +113,7 @@ rv.V("""Material Densities and Seismic Models | sub
    
     """)
 # %%
-rv.I("""Abbreviations and References
+rv.I("""Abbreviations and References | default
  
     References _[cb]
 
