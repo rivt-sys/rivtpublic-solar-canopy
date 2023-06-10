@@ -24,7 +24,7 @@ rv.R("""Overview | 1
                         [02] Abbreviations
                         [03] Symbols
 
-    || project | r00 | project_data.txt | 30,c | [:] 
+    || project | project_data.txt | 30,c | [:] 
  
     """)
 # %%
@@ -43,16 +43,16 @@ rv.I("""Governing Codes | default
     - The canopy is designed for compliance with the requirements of the CBC.
 
     Standards _[t]
-    || table | data | cbc2019_stds.xlsx | 53,l | [:]
+    || table | r0101 | cbc2019_stds.xlsx | 53,l | [:]
  
     Basic loads and load combinations are derived from the California Building
     and Residential Codes.
 
     Load Types _[t]
-    || table | data | load_types01.csv | 35,l | [:]
+    || table | r0101 | load_types01.csv | 35,l | [:]
 
     Load Combinations _[t]
-    || table | data | asce7_load_comb.csv | 55,c | [:]
+    || table | r0101 | asce7_load_comb.csv | 55,c | [:]
 
     """)
 # %%
@@ -61,16 +61,16 @@ rv.V("""Gravity Loads and Seismic Mass | sub
     Some filler text
 
     Roof unit dead loads _[t]
-    || values | data | dlroof0.csv
+    || declare | r0101 | dlroof0.csv
 
     Floor unit dead loads _[t]
-    || values | data | dlfloor0.csv
+    || declare | r0101 | dlfloor0.csv
 
     Interior wall unit dead loads _[t]
-    || values | data | dlintwall0.csv
+    || declare | r0101 | dlintwall0.csv
 
     Exterior wall unit dead loads _[t]
-    || values | data | dlextwall0.csv
+    || declare | r0101 | dlextwall0.csv
     
     Areas _[t]
     arearf1 := 1700             |SF,SM| roof area 
@@ -117,23 +117,23 @@ rv.I("""Abbreviations and References | default
  
     References _[cb]
 
-    || text | data | references.txt | plain
+    || text | r0101 | references.txt | plain
 
     
     Drawings _[cb]
 
-    || text | data | drawing_list.txt | plain
+    || text | r0101 | drawing_list.txt | plain
 
         
     Abbreviations - Terms _[cb]
 
-    || text | data | abbrev_terms.tex | plain
+    || text | r0101 | abbrev_terms.tex | plain
 
     
     Abbreviations - Math _[bc]
 
-    || text | data | abbrev_math.tex | plain
+    || text | r0101 | abbrev_math.tex | plain
     """)
 
-rv.writedoc("utf, pdf:pdf-style4.sty")
-# rv.writedoc("utf")
+# rv.writedoc("md, pdf:pdf-style4.sty")
+# rv.writedoc("md")
