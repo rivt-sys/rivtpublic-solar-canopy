@@ -2,7 +2,7 @@
 # %%
 import rivt.rivtapi as rv
 # %%
-rv.I("""[01]_  Load Combinations 
+rv.I("""Load Combinations | default
  
     Basic loads and load combinations are derived from the California Building
     and Residential Codes.
@@ -15,7 +15,7 @@ rv.I("""[01]_  Load Combinations
     
     """)
 # %%
-rv.V("""[02]_  Gravity Loads and Seismic Mass | nosub
+rv.V("""Gravity Loads and Seismic Mass | nosub
  
     Roof unit dead loads [t]_
     || declare | r0102 | dlroof0.csv
@@ -53,7 +53,7 @@ rv.V("""[02]_  Gravity Loads and Seismic Mass | nosub
     
     """)
 # %%
-rv.V("""[03]_  Material Densities - Seismic Models | nosub
+rv.V("""Material Densities - Seismic Models | nosub
 
     Because the T&G roof is relatively more flexible, the effective floor load
     for seismic models is calculated as the sum of the floor and all of the
