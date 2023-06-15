@@ -1,5 +1,0 @@
-variable,value,[value],description
-SDS,1.0,-,-,short period design
-R1,6.5,-,-,reduction factor
-omega,3,-,-,overstrength factor
-C_s,SDS/R1,-,-,Base shear coefficient  [00]

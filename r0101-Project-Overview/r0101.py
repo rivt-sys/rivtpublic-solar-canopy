@@ -1,14 +1,14 @@
 #! python
 # %%
 import rivt.rivtapi as rv
-# %%
 rv.R("""Overview | 1
 
+    Solar Canopy Structure Calculations
+    
     This report covers the structural design of a residential solar canopy
     located in the City of Larkspur, California. It includes the design of a
     concrete slab and stem wall, a steel tube frame, and attachments of solar
-    panels to the frame. The report is divided into the following divisions and
-    subdivisions::
+    panels to the frame. The report contents include::
     
                     [01] Loads
                         [01] Gravity
@@ -24,8 +24,7 @@ rv.R("""Overview | 1
                         [02] Abbreviations
                         [03] Symbols
 
-    || project | project_data.txt | 30,c | [:] 
- 
+    || project | project_data.txt | rivtags
     """)
 # %%
 rv.I("""Governing Codes | default
@@ -42,16 +41,16 @@ rv.I("""Governing Codes | default
     - 2019 California Residential Code [CRC] 
     - The canopy is designed for compliance with the requirements of the CBC.
 
-    Standards _[t]
+    Table of Standards _[t]
     || table | r0101 | cbc2019_stds.xlsx | 53,l | [:]
  
     Basic loads and load combinations are derived from the California Building
     and Residential Codes.
 
-    Load Types _[t]
+    Table of Load Types _[t]
     || table | r0101 | load_types01.csv | 35,l | [:]
 
-    Load Combinations _[t]
+    Table of Load Combinations _[t]
     || table | r0101 | asce7_load_comb.csv | 55,c | [:]
 
     """)
