@@ -25,6 +25,7 @@ rv.R("""Overview | 1
                         [03] Symbols
 
     || project | project_data.txt | rivtags
+
     """)
 # %%
 rv.I("""Governing Codes | default
@@ -42,16 +43,16 @@ rv.I("""Governing Codes | default
     - The canopy is designed for compliance with the requirements of the CBC.
 
     Table of Standards _[t]
-    || table | r0101 | cbc2019_stds.xlsx | 53,l | [:]
+    || table | r0101 | data/cbc2019_stds.xlsx | 53,l | [:]
  
     Basic loads and load combinations are derived from the California Building
     and Residential Codes.
 
     Table of Load Types _[t]
-    || table | r0101 | load_types01.csv | 35,l | [:]
+    || table | r0101 | data/load_types01.csv | 35,l | [:]
 
     Table of Load Combinations _[t]
-    || table | r0101 | asce7_load_comb.csv | 55,c | [:]
+    || table | r0101 | data/asce7_load_comb.csv | 55,c | [:]
 
     """)
 # %%
