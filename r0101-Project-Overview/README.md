@@ -49,3 +49,7 @@ and Residential Codes.
 Table 02 - Table of Load Types                                          01 - T02
 
 Table 03 - Table of Load Combinations                                   01 - T03
+
+##  Solar Canopy 2
+
+some text
