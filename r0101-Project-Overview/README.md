@@ -26,10 +26,10 @@ panels to the frame. The report contents include::
 --------------------------------------------------------------------------------
 
 
-![figure](../data/fig1.png=15%x)
+![figure](data/fig1.png=15%x)
 Fig. 01 - Wind load 1                                                  01 - F01 
 
-![figure](../data/fig1.png=40%x)
+![figure](data/fig1.png=40%x)
 Fig. 02 - Wind load 2                                                  01 - F02 
 
 Building Codes and Jurisdiction
