@@ -39,7 +39,7 @@ Building Codes and Jurisdiction
 
 The canopy is designed for compliance with the requirements of the CBC.
 
-Table 01 - Table of Standards                                           01 - T01
+## Table 01 - Table of Standards                                           01 - T01
 
 Basic loads and load combinations are derived from the California Building      
 and Residential Codes.
