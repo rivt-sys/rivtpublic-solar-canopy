@@ -9,7 +9,6 @@ panels to the frame.
  (Project and client data not included here, see report output)
 
 ## [0101-01]   Governing Codes
-------
 
 <img src="data/fig1.png" width="40%" alt="figure"> 
 [01] Fig. 01 - Wind load 1
