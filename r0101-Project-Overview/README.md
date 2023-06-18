@@ -1,5 +1,5 @@
 
-#  Solar Canopy
+##  Solar Canopy
 
 This report covers the structural design of a residential solar canopy
 located in the City of Larkspur, California. It includes the design of a        
@@ -22,12 +22,12 @@ panels to the frame. The report contents include::
 
  .. Project Data - not included here, see report output
 
-# 0101-1:  Governing Codes
+## 0101-1:  Governing Codes
 
-![figure](data/fig1.png =15%x)
+![figure](data/fig1.png)
 Fig. 01 - Wind load 1                                                  01 - F01 
 
-![figure](data/fig1.png =40%x)
+![figure](data/fig1.png)
 Fig. 02 - Wind load 2                                                  01 - F02 
 
 Building Codes and Jurisdiction
@@ -37,7 +37,7 @@ Building Codes and Jurisdiction
 
 The canopy is designed for compliance with the requirements of the CBC.
 
-## Table 01 - Table of Standards                                           01 - T01
+### Table 01 - Table of Standards                                           01 - T01
 
 Basic loads and load combinations are derived from the California Building      
 and Residential Codes.
