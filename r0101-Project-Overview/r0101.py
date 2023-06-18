@@ -30,10 +30,10 @@ rv.R("""Overview | 1
 # %%
 rv.I("""Governing Codes | default
 
-    || image | r0101 | fig1.png | 15
+    || image | \data\fig1.png | 15
     Wind load 1 _[f]
     
-    || image | r0101 | fig2.png | 40 
+    || image | ..\..\private\image\fig3.png | 40 
     Wind load 2 _[f]
 
     Building Codes and Jurisdiction _[b]
