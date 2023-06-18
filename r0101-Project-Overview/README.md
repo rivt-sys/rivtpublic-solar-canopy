@@ -2,9 +2,9 @@
 #  Solar Canopy
 
 This report covers the structural design of a residential solar canopy
-located in the City of Larkspur, California. It includes the design of a        
-concrete slab and stem wall, a steel tube frame, and attachments of solar       
-panels to the frame. The report contents include::
+located in the City of Larkspur, California. It includes the design of a
+concrete slab and stem wall, a steel tube frame, and attachments of solar
+panels to the frame. The report contents include:
 
                 [01] Loads
                     [01] Gravity
