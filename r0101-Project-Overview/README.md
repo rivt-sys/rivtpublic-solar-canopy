@@ -22,7 +22,7 @@ panels to the frame. The report contents include::
 
  .. Project Data - not included here, see report output
 
-## [0101-1]   Governing Codes
+## [0101]-1   Governing Codes
 
 <img src="data/fig1.png" width="40%">
 Fig. 01 - Wind load 1                                                  01 - F01 
