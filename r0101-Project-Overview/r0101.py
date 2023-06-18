@@ -24,35 +24,36 @@ rv.R("""Overview | 1
                         [02] Abbreviations
                         [03] Symbols
 
-    || project | project_data.txt | rivtags
+    || project | project-data.txt | plain 
 
     """)
 # %%
 rv.I("""Governing Codes | default
 
-    || image | data\fig1.png | 15
+    || image | data/fig1.png | 15
     Wind load 1 _[f]
     
-    || image | r0201-Tube-Frame\data\awc4_3a.csv | 40 
+    || image | data/fig1.png | 40 
     Wind load 2 _[f]
 
     Building Codes and Jurisdiction _[b]
     - City of Larkspur, California 
     - 2019 California Building Code [CBC]
     - 2019 California Residential Code [CRC] 
-    - The canopy is designed for compliance with the requirements of the CBC.
+    
+    The canopy is designed for compliance with the requirements of the CBC.
 
     Table of Standards _[t]
-    || table | r0101 | data/cbc2019_stds.xlsx | 53,l | [:]
+    || table | data/cbc2019_stds.xlsx | 53,l | [:]
  
     Basic loads and load combinations are derived from the California Building
     and Residential Codes.
 
     Table of Load Types _[t]
-    || table | r0101 | data/load_types01.csv | 35,l | [:]
+    || table | data/load_types01.csv | 35,l | [:]
 
     Table of Load Combinations _[t]
-    || table | r0101 | data/asce7_load_comb.csv | 55,c | [:]
+    || table | data/asce7_load_comb.csv | 55,c | [:]
 
     """)
 # %%
@@ -61,16 +62,16 @@ rv.V("""Gravity Loads and Seismic Mass | sub
     Some filler text
 
     Roof unit dead loads _[t]
-    || declare | r0101 | dlroof0.csv
+    || declare | data/dlroof0.csv
 
     Floor unit dead loads _[t]
-    || declare | r0101 | dlfloor0.csv
+    || declare | data/dlfloor0.csv
 
     Interior wall unit dead loads _[t]
-    || declare | r0101 | dlintwall0.csv
+    || declare | data/dlintwall0.csv
 
     Exterior wall unit dead loads _[t]
-    || declare | r0101 | dlextwall0.csv
+    || declare | data/dlextwall0.csv
     
     Areas _[t]
     arearf1 := 1700             |SF,SM| roof area 
@@ -117,22 +118,22 @@ rv.I("""Abbreviations and References | default
  
     References _[cb]
 
-    || text | r0101 | references.txt | plain
+    || text | data/references.txt | plain
 
     
     Drawings _[cb]
 
-    || text | r0101 | drawing_list.txt | plain
+    || text | data/drawing_list.txt | plain
 
         
     Abbreviations - Terms _[cb]
 
-    || text | r0101 | abbrev_terms.tex | plain
+    || text | data/abbrev_terms.tex | plain
 
     
     Abbreviations - Math _[bc]
 
-    || text | r0101 | abbrev_math.tex | plain
+    || text | data/abbrev_math.tex | plain
     """)
 
 # rv.writedoc("md, pdf:pdf-style4.sty")
