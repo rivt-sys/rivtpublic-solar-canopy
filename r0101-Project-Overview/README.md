@@ -10,14 +10,12 @@ panels to the frame.
 
 ## [0101-01]   Governing Codes
 
-<img src="data/fig1.png" width="40%" alt="figure"> 
 [01] Fig. 01 - Wind load 1
+<img src="data/fig1.png" width="40%" alt="figure"> 
 
 
-<img src="data/fig2.png" width="40%" alt="figure"> 
 [01] Fig. 02 - Wind load 1
-
-
+<img src="data/fig2.png" width="40%" alt="figure"> 
 
 Building Codes and Jurisdiction
 - City of Larkspur, California
