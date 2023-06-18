@@ -24,7 +24,7 @@ panels to the frame. The report contents include::
 
 ## 0101-1:  Governing Codes
 
-![figure](data/fig1.png)
+<img src="data/fig1.png" width="40%">
 Fig. 01 - Wind load 1                                                  01 - F01 
 
 ![figure](data/fig1.png)
