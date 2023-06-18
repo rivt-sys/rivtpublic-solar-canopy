@@ -20,9 +20,7 @@ panels to the frame. The report contents include::
                     [02] Abbreviations
                     [03] Symbols
 
-[Project Data - see report output]
-
-
+ .. Project Data - not included here, see report output
 
 # 0101-1:  Governing Codes
 
