@@ -33,7 +33,7 @@ rv.I("""Governing Codes | default
     || image | data/fig1.png | 15
     Wind load 1 _[f]
     
-    || image | data/fig1.png | 40 
+    || image | data/fig2.png | 40 
     Wind load 2 _[f]
 
     Building Codes and Jurisdiction _[b]
