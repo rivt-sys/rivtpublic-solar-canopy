@@ -22,13 +22,13 @@ panels to the frame. The report contents include::
 
  .. Project Data - not included here, see report output
 
-## [0101]-1   Governing Codes
+## [0101-01]   Governing Codes
 
 <img src="data/fig1.png" width="40%">
-Fig. 01 - Wind load 1                                                  01 - F01 
+[-01] Fig. 01 - Wind load 1
 
-![figure](data/fig1.png)
-Fig. 02 - Wind load 2                                                  01 - F02 
+<img src="data/fig2.png" width="40%">
+[-01] Fig. 02 - Wind load 2 
 
 Building Codes and Jurisdiction
 - City of Larkspur, California
