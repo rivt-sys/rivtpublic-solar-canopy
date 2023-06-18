@@ -1,5 +1,5 @@
-# test1
-##  Solar Canopy
+
+#  Solar Canopy
 
 This report covers the structural design of a residential solar canopy
 located in the City of Larkspur, California. It includes the design of a        
@@ -53,5 +53,3 @@ Table 03 - Table of Load Combinations                                   01 - T03
 ##  Solar Canopy 2
 
 some text
-
-# test2
