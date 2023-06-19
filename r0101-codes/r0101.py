@@ -1,10 +1,8 @@
 #! python
 # %%
 import rivt.rivtapi as rv
-rv.R("""Overview | 1
+rv.R("""Overview and Loads | 1
 
-    Solar Canopy Structure Calculations _[h2]
-    
     This report covers the structural design of a residential solar canopy
     located in the City of Larkspur, California. It includes the design of a
     concrete slab and stem wall, a steel tube frame, and attachments of solar
