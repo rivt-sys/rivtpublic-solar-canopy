@@ -9,7 +9,7 @@ foundation, a welded steel tube frame, and solar panel clips.
 
 ------------
 
-### 0101-|1| Governing Codes
+### 0101-1 Governing Codes
 
 ------------
 
@@ -17,7 +17,7 @@ foundation, a welded steel tube frame, and solar panel clips.
 
 ------------
 
-#### |1| Fig. 01 - Wind load 1
+#### 1 | Fig. 01 - Wind load 1
 
 -----------
 
@@ -26,7 +26,7 @@ foundation, a welded steel tube frame, and solar panel clips.
 
 -----------
 
-#### |1| Fig. 02 - Wind load 2
+#### 1 | Fig. 02 - Wind load 2
 
 -----------
 
@@ -39,7 +39,7 @@ The canopy is designed for compliance with the requirements of the CBC.
 
 ------------
 
-#### [1] Table 01 - Table of Standards
+#### 1 | Table 01 - Table of Standards
 
 ------------
 
