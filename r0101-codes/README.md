@@ -10,16 +10,13 @@ foundation, a welded steel tube frame, and solar panel clips.
 
 ### 0101-[1] Governing Codes
 
-
 <img src=data/fig1.png width=50% alt=data/fig1.png>
 [1] Fig. 01 - Wind load 1
-
-
+-----------
 
 <img src=data/fig2.png width=50% alt=data/fig2.png>
 [1] Fig. 02 - Wind load 2
-
-
+-----------
 
 Building Codes and Jurisdiction
 - City of Larkspur, California
@@ -30,6 +27,7 @@ The canopy is designed for compliance with the requirements of the CBC.
 
 
 [1] Table 01 - Table of Standards
+-----------
 <table>
 <thead>
 <tr><th>Category                                           </th><th>Standard  </th><th style="text-align: right;">  Year</th></tr>
@@ -43,12 +41,12 @@ The canopy is designed for compliance with the requirements of the CBC.
 </tbody>
 </table>
 
-
 Basic loads and load combinations are from the California Building and
 Residential Codes.
 
 
 [1] Table 02 - Table of Load Types
+-----------
 <table>
 <thead>
 <tr><th>Sym  </th><th>Load Effect              </th><th>Notes                              </th></tr>
@@ -83,6 +81,7 @@ publication                                    </td></tr>
 
 
 [1] Table 03 - Table of Load Combinations
+-----------
 <table>
 <thead>
 <tr><th style="text-align: center;"> CBC 2019 reference </th><th style="text-align: center;">                      Equation                       </th></tr>    
