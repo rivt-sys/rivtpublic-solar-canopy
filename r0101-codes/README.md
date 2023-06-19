@@ -11,12 +11,12 @@ foundation, a welded steel tube frame, and solar panel clips.
 ### 0101-[1] Governing Codes
 
 <img src=data/fig1.png width=50% alt=data/fig1.png>
-[1] Fig. 01 - Wind load 1
+**[1] Fig. 01 - Wind load 1**
 
 -----------
 
 <img src=data/fig2.png width=50% alt=data/fig2.png>
-[1] Fig. 02 - Wind load 2
+**[1] Fig. 02 - Wind load 2**
 
 -----------
 
@@ -28,7 +28,7 @@ Building Codes and Jurisdiction
 The canopy is designed for compliance with the requirements of the CBC.
 
 
-[1] Table 01 - Table of Standards
+**[1] Table 01 - Table of Standards**
 
 -----------
 
@@ -49,7 +49,7 @@ Basic loads and load combinations are from the California Building and
 Residential Codes.
 
 
-[1] Table 02 - Table of Load Types
+**[1] Table 02 - Table of Load Types**
 
 -----------
 
@@ -86,7 +86,7 @@ publication                                    </td></tr>
 </table>
 
 
-[1] Table 03 - Table of Load Combinations
+**[1] Table 03 - Table of Load Combinations**
 
 -----------
 
