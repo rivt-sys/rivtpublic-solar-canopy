@@ -11,12 +11,13 @@ foundation, a welded steel tube frame, and solar panel clips.
 ### 0101-[1] Governing Codes
 
 <img src=data/fig1.png width=50% alt=data/fig1.png>
+
 **[1] Fig. 01 - Wind load 1**
 
 -----------
 
 <img src=data/fig2.png width=50% alt=data/fig2.png>
-**[1] Fig. 02 - Wind load 2**
+##### [1] Fig. 02 - Wind load 2
 
 -----------
 
