@@ -9,6 +9,8 @@ foundation, a welded steel tube frame, and solar panel clips.
 
 ------------
 
+------------
+
 ### 0101-1 Governing Codes
 
 ------------
@@ -122,6 +124,8 @@ publication                                    </td></tr>
 <tr><td style="text-align: center;">   Equation 16-7    </td><td style="text-align: center;">               0.9(D + F) + 1.0E+ l.6H               </td></tr>    
 </tbody>
 </table>
+
+------------
 
 ------------
 
