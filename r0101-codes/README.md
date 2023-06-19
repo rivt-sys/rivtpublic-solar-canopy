@@ -2,9 +2,8 @@
 
 ## Overview and Codes
 
-This report covers the structural design of a residential solar canopy     
-located in Larkspur, California. It includes the design of a concrete slab 
-and stem wall foundation, a welded steel tube frame, and solar panel clips.
+This report covers the structural design of a residential solar canopy located in Larkspur, California. It includes the design of a concrete slab and stem wall 
+foundation, a welded steel tube frame, and solar panel clips.
 
 (... for project data - see report output ...)
 
@@ -12,11 +11,11 @@ and stem wall foundation, a welded steel tube frame, and solar panel clips.
 ### 0101-[1] Governing Codes
 
 
-<img src=data/fig1.png width=15% alt=data/fig1.png>
+<img src=data/fig1.png width=50% alt=data/fig1.png>
 [1] Fig. 01 - Wind load 1
 
 
-<img src=data/fig2.png width=40% alt=data/fig2.png>
+<img src=data/fig2.png width=50% alt=data/fig2.png>
 [1] Fig. 02 - Wind load 2
 
 
@@ -25,7 +24,7 @@ Building Codes and Jurisdiction
 - 2019 California Building Code [CBC]
 - 2019 California Residential Code [CRC]
 
-The canopy is designed for compliance with the requirements of the CBC.    
+The canopy is designed for compliance with the requirements of the CBC.
 
 [1] Table 01 - Table of Standards
 <table>
@@ -95,25 +94,3 @@ publication                                    </td></tr>
 
 ### 0101-[2] Gravity Loads and Seismic Mass
 
-
-Some filler text
-
-[2] Table 04 - Roof unit dead loads
-
-[2] Table 05 - Floor unit dead loads
-
-[2] Table 06 - Interior wall unit dead loads
-
-[2] Table 07 - Exterior wall unit dead loads
-
-[2] Table 08 - Areas
-Traceback (most recent call last):
-  File "c:/git/rivtproject-solar-canopy/rivt-Solar-Canopy-Structural-Calculations/r0101-codes/r0101.py", line 42, in <module>
-    rv.V("""Gravity Loads and Seismic Mass | sub
-  File "C:\Users\rhh2\Python38\lib\site-packages\rivt\rivtapi.py", line 325, in V
-    xmdL, xrstL, incrD, folderD, localD = mdC.str_parse(rL[1:], "V")
-  File "C:\Users\rhh2\Python38\lib\site-packages\rivt\parse.py", line 202, in str_parse
-    rvtC = tagmd.TagsMD(lineS, self.incrD, self.folderD,
-TypeError: __init__() missing 1 required positional argument: 'localD'
-
-c:\git\rivtproject-solar-canopy\rivt-Solar-Canopy-Structural-Calculations\r0101-codes>
