@@ -30,7 +30,7 @@ Building Codes and Jurisdiction
 The canopy is designed for compliance with the requirements of the CBC.
 
 
-**[1] Table 01 - Table of Standards**
+#### [1] Table 01 - Table of Standards
 
 -----------
 
@@ -51,7 +51,7 @@ Basic loads and load combinations are from the California Building and
 Residential Codes.
 
 
-**[1] Table 02 - Table of Load Types**
+#### [1] Table 02 - Table of Load Types
 
 -----------
 
@@ -88,7 +88,7 @@ publication                                    </td></tr>
 </table>
 
 
-**[1] Table 03 - Table of Load Combinations**
+#### [1] Table 03 - Table of Load Combinations
 
 -----------
 
@@ -109,7 +109,10 @@ publication                                    </td></tr>
 
 
 
+------
+
 ### 0101-[2] Gravity Loads and Seismic Mass
 
+------
 
 Some filler text
