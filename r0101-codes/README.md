@@ -13,6 +13,9 @@ foundation, a welded steel tube frame, and solar panel clips.
 
 ------------
 
+------------
+
+
 <img src=data/fig1.png width=50% alt=data/fig1.png>
 
 ------------
@@ -123,6 +126,8 @@ publication                                    </td></tr>
 ------------
 
 ### 0101-[2] Gravity Loads and Seismic Mass
+
+------------
 
 ------------
 
