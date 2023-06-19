@@ -1,26 +1,11 @@
 #! python
 # %%
 import rivt.rivtapi as rv
-rv.R("""Overview and Loads | 1
+rv.R("""Overview and Codes | 1
 
     This report covers the structural design of a residential solar canopy
-    located in the City of Larkspur, California. It includes the design of a
-    concrete slab and stem wall, a steel tube frame, and attachments of solar
-    panels to the frame. The report contents include::
-    
-                    [01] Loads
-                        [01] Gravity
-                        [02] Wind and Seismic
-                    [02] Frame
-                        [01] Steel tubes 
-                        [02] Connections and clips 
-                    [03] Foundation 
-                        [01] Slab
-                        [02] Stem wall
-                    [04] References and Abbreviations
-                        [01] Codes and Standards
-                        [02] Abbreviations
-                        [03] Symbols
+    located in Larkspur, California. It includes the design of a concrete slab
+    and stem wall foundation, a welded steel tube frame, and solar panel clips.
 
     || project | project-data.txt | plain 
 
