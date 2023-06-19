@@ -18,7 +18,7 @@ foundation, a welded steel tube frame, and solar panel clips.
 
 <img src=data/fig2.png width=50% alt=data/fig2.png>
 
-##### [1] Fig. 02 - Wind load 2
+#### [1] Fig. 02 - Wind load 2
 
 -----------
 
