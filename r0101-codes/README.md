@@ -1,4 +1,4 @@
-2023-06-19 00:00
+2023-06-19 02:07AM
 
 ## Overview and Codes
 
@@ -15,8 +15,10 @@ foundation, a welded steel tube frame, and solar panel clips.
 [1] Fig. 01 - Wind load 1
 
 
+
 <img src=data/fig2.png width=50% alt=data/fig2.png>
 [1] Fig. 02 - Wind load 2
+
 
 
 Building Codes and Jurisdiction
@@ -25,6 +27,7 @@ Building Codes and Jurisdiction
 - 2019 California Residential Code [CRC]
 
 The canopy is designed for compliance with the requirements of the CBC.
+
 
 [1] Table 01 - Table of Standards
 <table>
@@ -40,8 +43,10 @@ The canopy is designed for compliance with the requirements of the CBC.
 </tbody>
 </table>
 
+
 Basic loads and load combinations are from the California Building and
 Residential Codes.
+
 
 [1] Table 02 - Table of Load Types
 <table>
@@ -75,6 +80,8 @@ publication                                    </td></tr>
 publication                                    </td></tr>
 </tbody>
 </table>
+
+
 [1] Table 03 - Table of Load Combinations
 <table>
 <thead>
@@ -92,5 +99,8 @@ publication                                    </td></tr>
 </table>
 
 
+
 ### 0101-[2] Gravity Loads and Seismic Mass
 
+
+Some filler text

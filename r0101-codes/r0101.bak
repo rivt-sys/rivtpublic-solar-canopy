@@ -13,10 +13,12 @@ rv.I("""Governing Codes | default
 
     || image | data/fig1.png | 50
     Wind load 1 _[f]
+
     
     || image | data/fig2.png | 50 
     Wind load 2 _[f]
 
+    
     Building Codes and Jurisdiction _[b]
     - City of Larkspur, California 
     - 2019 California Building Code [CBC]
@@ -24,17 +26,23 @@ rv.I("""Governing Codes | default
     
     The canopy is designed for compliance with the requirements of the CBC.
 
+    
     Table of Standards _[t]
     || table | data/cbc2019_stds.xlsx | 53,l 
  
+    
     Basic loads and load combinations are from the California Building and
     Residential Codes.
 
+    
     Table of Load Types _[t]
     || table | data/load_types01.csv | 40,l 
+    
+    
     Table of Load Combinations _[t]
     || table | data/asce7_load_comb.csv | 55,c 
 
+    
     """)
 # %%
 rv.V("""Gravity Loads and Seismic Mass | sub
