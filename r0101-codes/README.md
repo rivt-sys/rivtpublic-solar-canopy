@@ -5,7 +5,7 @@
 This report covers the structural design of a residential solar canopy located in Larkspur, California. It includes the design of a concrete slab and stem wall 
 foundation, a welded steel tube frame, and solar panel clips.
 
-(... for project data - see report output ...)
+(... for project administrative data see PDF report output ...)
 
 ------------
 
