@@ -9,7 +9,7 @@ foundation, a welded steel tube frame, and solar panel clips.
 
 ------------
 
-### 0101-[1] Governing Codes
+### 0101-|1| Governing Codes
 
 ------------
 
@@ -17,7 +17,7 @@ foundation, a welded steel tube frame, and solar panel clips.
 
 ------------
 
-#### [1] Fig. 01 - Wind load 1
+#### |1| Fig. 01 - Wind load 1
 
 -----------
 
@@ -26,7 +26,7 @@ foundation, a welded steel tube frame, and solar panel clips.
 
 -----------
 
-#### [1] Fig. 02 - Wind load 2
+#### |1| Fig. 02 - Wind load 2
 
 -----------
 
