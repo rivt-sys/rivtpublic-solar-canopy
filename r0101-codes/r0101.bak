@@ -1,7 +1,7 @@
 #! python
 # %%
 import rivt.rivtapi as rv
-rv.R("""Overview and Codes | 1
+rv.R("""Overview and Codes | notoc | 1
 
     This report covers the structural design of a residential solar canopy
     located in Larkspur, California. It includes the design of a concrete slab
@@ -13,11 +13,11 @@ rv.R("""Overview and Codes | 1
 # %%
 rv.I("""Governing Codes | default
 
-    || image | data/fig1.png | 50
+    || image | data/fig1.png | 75
     Wind load 1 _[f]
 
     
-    || image | data/fig2.png | 50 
+    || image | data/fig2.png | 75 
     Wind load 2 _[f]
 
     

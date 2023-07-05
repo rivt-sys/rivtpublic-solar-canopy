@@ -1,36 +1,39 @@
-2023-06-19 | 04:38AM
+0101 | 2023-06-19 | 04:38AM
+
 
 ## Overview and Codes
 
-This report covers the structural design of a residential solar canopy
-located in Larkspur, California. It includes the design of a concrete slab     
-and stem wall foundation, a welded steel tube frame, and solar panel clips.    
+This report covers the structural design of a residential solar canopy located
+in Larkspur, California. It includes the design of a concrete slab and stem
+wall foundation, a welded steel tube frame, and solar panel clips.
 
-(... for project data - see PDF report output ...)
+...for project data see PDF output...
 
+### [ 1 ]  Governing Codes
+------------
+<br>
 
-### 0101-[1] Governing Codes
-
-
-<img src=data/fig1.png width=50% alt=data/fig1.png>
-[1] Fig. 01 - Wind load 1
-
-
-
-<img src=data/fig2.png width=50% alt=data/fig2.png>
-[1] Fig. 02 - Wind load 2
+<p align="center">
+    <img src=data/fig2.png width=50% alt=data/fig1.png><br>
+    <h4 align="center"><b>Fig. 01 - Wind load 1</b></h4>
+</p>
 
 
+<p align="center">
+    <img src=data/fig2.png width=50% alt=data/fig2.png><br>
+    <h4 align="center"><b>Fig. 02 - Wind load 2</b></h4>
+</p>
 
-Building Codes and Jurisdiction
+
+**Building Codes and Jurisdiction**
 - City of Larkspur, California
 - 2019 California Building Code [CBC]
 - 2019 California Residential Code [CRC]
 
-The canopy is designed for compliance with the requirements of the CBC.        
+The canopy is designed for compliance with the requirements of the CBC including the standards in the table below.        
 
 
-[1] Table 01 - Table of Standards
+[1] Table 1 - Building Standards
 <table>
 <thead>
 <tr><th>Category                                           </th><th>Standard  </th><th style="text-align: right;">  Year</th></tr>
@@ -46,10 +49,10 @@ The canopy is designed for compliance with the requirements of the CBC.
 
 
 Basic loads and load combinations are from the California Building and
-Residential Codes.
+Residential Codes summarized in the tables below.
 
 
-[1] Table 02 - Table of Load Types
+[1] Table 02 - Notation and Loads
 <table>
 <thead>
 <tr><th>Sym  </th><th>Load Effect              </th><th>Notes

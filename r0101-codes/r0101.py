@@ -13,11 +13,11 @@ rv.R("""Overview and Codes | notoc | 1
 # %%
 rv.I("""Governing Codes | default
 
-    || image | data/fig1.png | 50
+    || image | data/fig1.png | 75
     Wind load 1 _[f]
 
     
-    || image | data/fig2.png | 50 
+    || image | data/fig2.png | 75 
     Wind load 2 _[f]
 
     
