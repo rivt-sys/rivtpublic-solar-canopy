@@ -15,13 +15,13 @@ wall foundation, a welded steel tube frame, and solar panel clips.
 
 <p align="center">
     <img src=data/fig2.png width=50% alt=data/fig1.png><br>
-    <h4 align="center"><b>Fig. 01 - Wind load 1</b></h4>
+    <h4 align="center"><b>Fig. 1 - Wind load A</b></h4>
 </p>
 
 
 <p align="center">
     <img src=data/fig2.png width=50% alt=data/fig2.png><br>
-    <h4 align="center"><b>Fig. 02 - Wind load 2</b></h4>
+    <h4 align="center"><b>Fig. 2 - Wind load B</b></h4>
 </p>
 
 
@@ -33,7 +33,7 @@ wall foundation, a welded steel tube frame, and solar panel clips.
 The canopy is designed for compliance with the requirements of the CBC including the standards in the table below.        
 
 
-[1] Table 1 - Building Standards
+**Table 1 - Building Standards**
 <table>
 <thead>
 <tr><th>Category                                           </th><th>Standard  </th><th style="text-align: right;">  Year</th></tr>
