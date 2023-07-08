@@ -64,11 +64,11 @@ rv.V("""Gravity Loads and Seismic Mass | sub
     || declare | data\dlextwall0.csv
 
     Areas _[t]
-    arearf1 := 1700             |SF,SM| roof area 
-    areaflr1 := 1200            |SF,SM| floor area
-    htwall1 := 9                |FT, M| wall height   
-    lenwall1 := 110             |FT, M| interior wall length 
-    lenwall2 := 155             |FT, M| exterior wall 2 length 
+    arearf1 := 1700*SF           |SM| roof area 
+    areaflr1 := 1200*SF          |SM| floor area
+    htwall1 := 9*FT              |M| wall height   
+    lenwall1 := 110*FT           |M| interior wall length 
+    lenwall2 := 155*FT           |M| exterior wall 2 length 
 
     
     Roof weight _[e]                    
