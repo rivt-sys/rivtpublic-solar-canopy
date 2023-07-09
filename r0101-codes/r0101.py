@@ -13,7 +13,7 @@ rv.R("""Overview and Codes | notoc | 1
 # %%
 rv.I("""Governing Codes | default
 
-    || image | data\fig1.png | 75
+    || image | data/fig1.png | 75
     Wind load 1 _[f]
 
     
@@ -30,7 +30,7 @@ rv.I("""Governing Codes | default
 
     
     Table of Standards _[t]
-    || table | data\cbc2019_stds.xlsx | 53,l 
+    || table | data/cbc2019_stds.xlsx | 53,l 
  
     
     Basic loads and load combinations are from the California Building and
@@ -38,11 +38,11 @@ rv.I("""Governing Codes | default
 
     
     Table of Load Types _[t]
-    || table | data\load_types01.csv | 40,l 
+    || table | data/load_types01.csv | 40,l 
     
     
     Table of Load Combinations _[t]
-    || table | data\asce7_load_comb.csv | 55,c 
+    || table | data/asce7_load_comb.csv | 55,c 
 
     
     """)
@@ -52,16 +52,16 @@ rv.V("""Gravity Loads and Seismic Mass | sub
     Some filler text
 
     Roof unit dead loads _[t]
-    || declare | data\dlroof0.csv
+    || declare | data/dlroof0.csv
 
     Floor unit dead loads _[t]
-    || declare | data\dlfloor0.csv
+    || declare | data/dlfloor0.csv
 
     Interior wall unit dead loads _[t]
-    || declare | data\dlintwall0.csv
+    || declare | data/dlintwall0.csv
 
     Exterior wall unit dead loads _[t]
-    || declare | data\dlextwall0.csv
+    || declare | data/dlextwall0.csv
 
     Areas _[t]
     arearf1 := 1700*SF           |SM| roof area 
